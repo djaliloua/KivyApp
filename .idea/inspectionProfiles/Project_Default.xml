@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="ng-controller" />
+            <item index="1" class="java.lang.String" itemvalue="ng-app" />
+            <item index="2" class="java.lang.String" itemvalue="ng-model" />
+            <item index="3" class="java.lang.String" itemvalue="ng-init" />
+            <item index="4" class="java.lang.String" itemvalue="ng-bind" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mysite.polls.form.CreateRegistrationForm" />
+          <option value="mysite.polls.form.RegistrationModel" />
+          <option value="mysite.polls.Views.views.Profile" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
